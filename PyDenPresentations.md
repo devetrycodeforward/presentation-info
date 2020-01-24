@@ -36,8 +36,8 @@ You are presenting a technical **product** to a technical audience
 ## Potential Q/A Questions:
 
 1. Why did you use Vue instead of React (or anything else you haven't learned yet)
-    - **Acceptable Answer**: I haven't yet gotten the chance try React.
+    - **Acceptable Answer**: I haven't yet gotten the chance try React, but I'm excited to check it out soon.
 
-2. Why did you architect your app store X in a db instead of application state?
+2. Why did you architect your app to store favorites in the Vue application state instead of the DB?
     - Generally, they are asking, why did you use this pattern instead of that pattern.
     - **Acceptable Answer**: [Try your best to justify your tech/business decisions]
